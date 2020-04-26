@@ -1,46 +1,35 @@
 # Updated-Portfolio-Page-1
 
 
-# Unit 08 Project 1 Homework: Professional Materials
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
+## Links
 
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+1. [Updated Portfolio](#https://avaarm.github.io/Updated-Portfolio-Page-1/)
+2. [GitHub Profile](#https://avaarm.github.io/Updated-Portfolio-Page-1/) 
+3. [Updated Resume](#file:///Users/armenuhiavanesyan/Downloads/2019%20Research%20(8).pdf) 
+4. [Updated LinkedIn](#https://www.linkedin.com/in/armenuhi-avanesyan-99101286/) 
+
 
 
 ## Requirements
 
 * Updated portfolio featuring project 1 and two exemplary homework assignments. 
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.  
+- Completed 
 
 * Updated resume
+- Completed 
 
 * Updated LinkedIn profile
+- Completed
 
-
-## Grading
-
-| Requirement      | Weight |
-|---               |---     |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
-
-
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
 
 ### Updated Portfolio
 
-Your updated site should have the following content:
+The updated site should have the following content:
 
-* Your name
+* My Name
 
 * Links to your GitHub profile & LinkedIn page as well as your email address and phone number
 
@@ -59,55 +48,43 @@ Your updated site should have the following content:
 
 #### Design
 
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
 
 * Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
+the default bootstrap theme or an unstyled HTML site - I chose a transparent background becuase I wanted to the page to be simple and easy to read. 
 
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
 
 ### Updated GitHub Profile 
 
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
 
-    * Profile picture
+ * Profile picture - Do not feel as comfortable with a personal photo on github so I have a photo of some ancient stonehenges from Armenia.
 
-    * Bio
+ * Bio - "An immunology and microbiology researcher currently enrolled in a Full Stack Web development program, hoping to explore a career in technology"
 
-    * Location
+ * Location - Seattle, WA
 
-    * Email
+ * Email - avaarm95@gmail.com
 
-    * Link to your portfolio
+ * Link to your portfolio - [MyPortfolio](https://avaarm.github.io/Updated-Portfolio-Page-1/)
 
-* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 
-* Pin some repos that you want to highlight
+ * Pin some repos that you want to highlight - completed
 
-  * Navigate to [GitHub](https://github.com/) and go to your profile.
+ * Navigate to [GitHub](https://github.com/) and go to your profile.
 
-  * Click "Customize your pins"
+ * Click "Customize your pins"
 
-  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+ * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 
-  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
+ * Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
-* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+ * Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
 
 
 ### Updated Resume 
 
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
+I am currently unsure of the type of industry I will be entering once I finish this program, so I will be submitting a resume that is a combination of my research background and that of the certificate program.
 
-
-### Updated LinkedIn Profile 
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

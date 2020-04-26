@@ -1,0 +1,42 @@
+html, body {
+    background-image: url("./IMG_7044.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+  background-attachment: fixed;
+   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+   }
+
+
+  .navbar-inner li{
+    line-height: 40px;
+    letter-spacing:2px;
+    justify-self: center;
+    color: cornsilk;
+  } 
+
+ .nav-link{
+    /* border-top: 4px solid white; */
+  
+    transition: border-top .3s;
+    &:hover{border-top: 4px solid dodgerblue;}
+  }
+   
+  .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a{
+    background-image:none;
+    background-color:dodgerblue;
+
+  }
+
+
+
+  .header{
+    /* background-color: rgba(255,255,255, .95); */
+    /* remove the gradient */
+ background-image: none !important;
+    border-bottom:2px solid dodgerblue !important;
+    line-height: 40px !important;
+    /* box-shadow: 0 12px 6px -6px rgba(0,0,0, .2) !important; */
+} 
