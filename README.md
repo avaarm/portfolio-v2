@@ -4,10 +4,10 @@
 
 ## Links
 
-1. [Updated Portfolio](#https://avaarm.github.io/Updated-Portfolio-Page-1/)
-2. [GitHub Profile](#https://avaarm.github.io/Updated-Portfolio-Page-1/) 
-3. [Updated Resume](#file:///Users/armenuhiavanesyan/Downloads/2019%20Research%20(8).pdf) 
-4. [Updated LinkedIn](#https://www.linkedin.com/in/armenuhi-avanesyan-99101286/) 
+1. [Updated Portfolio](https://avaarm.github.io/Updated-Portfolio-Page-1/)
+2. [GitHub Profile](https://avaarm.github.io/Updated-Portfolio-Page-1/) 
+3. [Updated Resume](file:///Users/armenuhiavanesyan/Downloads/2019%20Research%20(8).pdf) 
+4. [Updated LinkedIn](https://www.linkedin.com/in/armenuhi-avanesyan-99101286/) 
 
 
 
