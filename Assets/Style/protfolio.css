@@ -15,7 +15,10 @@
    
 }
 
-
+#AboutMeCard {
+  color: white;
+  padding-left: 10px;
+}
 
 .navbar-brand {
     border: none;
