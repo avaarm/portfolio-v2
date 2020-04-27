@@ -37,7 +37,7 @@ The updated site should have the following content:
 * Mobile-first design
 
 * Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site - I chose a transparent background becuase I wanted to the page to be simple and easy to read. 
+the default bootstrap theme or an unstyled HTML site - I chose a transparent background becuase I wanted the page to be simple and easy to read. 
 
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
@@ -71,8 +71,6 @@ the default bootstrap theme or an unstyled HTML site - I chose a transparent bac
   ![Follow Classmates](./Assets/Images/follow.png)
 
 
-
-
 ### Updated Resume 
 
-I am currently unsure of the type of industry I will be entering once I finish this program, so I will be submitting a resume that is a combination of my research background and that of the certificate program.
+I am currently unsure of the type of industry I will be entering once I finish this program, so I will be submitting a resume that is a combination of my research background and that of the certificate program. Link to pdf od resume is above in the "Links" category. 

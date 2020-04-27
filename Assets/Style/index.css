@@ -26,11 +26,7 @@ html, body {
     background-color:dodgerblue;
 
   }
-
-  h1, .col-md-8 {
-    color: white;
-  }
-
+  
   .header{
 
  background-image: none !important;
@@ -65,8 +61,6 @@ html, body {
     padding-left: 10px;
     padding-right: 10px;
  }
-  
-
   
 
   

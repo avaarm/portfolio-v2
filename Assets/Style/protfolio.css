@@ -1,17 +1,5 @@
 
 
-html, body {
-    background-image: url("../Images/IMG_0260_Original.jpg");
-    background-color: #cccccc;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    background-position: center;
-    background-attachment: fixed;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-   }
-
-
 .nav-link:hover {
     color: #55555763;
   }
