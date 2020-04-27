@@ -30,6 +30,9 @@ html, body {
 
   }
 
+  h1, .col-md-8 {
+    color: white;
+  }
 
 
   .header{

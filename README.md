@@ -1,3 +1,4 @@
+
 # Updated-Portfolio-Page-1
 
 
@@ -5,18 +6,9 @@
 ## Links
 
 1. [Updated Portfolio](https://avaarm.github.io/Updated-Portfolio-Page-1/)
-2. [GitHub Profile](https://avaarm.github.io/Updated-Portfolio-Page-1/) 
-3. [Updated Resume]() 
+2. [GitHub Profile](https://github.com/avaarm) 
+3. [Updated Resume](https://avaarm.github.io/Updated-Portfolio-Page-1/resume.html) 
 4. [Updated LinkedIn](https://www.linkedin.com/in/armenuhi-avanesyan-99101286/) 
-
-
-
-## Requirements
-
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.  
-* Updated resume
-* Updated LinkedIn profile
 
 
 
@@ -24,9 +16,7 @@
 
 The updated site should have the following content:
 
-* My Name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+* Links to your GitHub profile & LinkedIn page as well as your email address and phone number - Did not feel comfortable putting my email address and phone number online. Have provided github and linkedin. 
 
 * A link to a PDF of your resume
 
@@ -57,6 +47,9 @@ the default bootstrap theme or an unstyled HTML site - I chose a transparent bac
 
  * Profile picture - Do not feel as comfortable with a personal photo on github so I have a photo of some ancient stonehenges from Armenia.
 
+ ![Profile](./Assets/Images/profilegithub.png)
+
+
  * Bio - "An immunology and microbiology researcher currently enrolled in a Full Stack Web development program, hoping to explore a career in technology"
 
  * Location - Seattle, WA
@@ -66,20 +59,20 @@ the default bootstrap theme or an unstyled HTML site - I chose a transparent bac
  * Link to your portfolio - [MyPortfolio](https://avaarm.github.io/Updated-Portfolio-Page-1/)
 
 
- * Pin some repos that you want to highlight - completed
+ * Pin some repos that you want to highlight 
 
- * Navigate to [GitHub](https://github.com/) and go to your profile.
+ ![Pins](./Assets/Images/pins.png)
 
- * Click "Customize your pins"
-
- * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 
  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
- * Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+ * Follow your classmates
+
+  ![Follow Classmates](./Assets/Images/follow.png)
+
+
 
 
 ### Updated Resume 
 
 I am currently unsure of the type of industry I will be entering once I finish this program, so I will be submitting a resume that is a combination of my research background and that of the certificate program.
-
