@@ -1,35 +1,30 @@
-/* all p-tags */
-
 
 
 html, body {
-    background-image: url("./IMG_0260_Original.jpg");
+    background-image: url("../Images/IMG_0260_Original.jpg");
     background-color: #cccccc;
     background-repeat: no-repeat;
-  background-size: cover;
-  height: 100%;
-  background-position: center;
-  background-attachment: fixed;
-   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
    }
-/* 
-nav {
-    font-family: "Georgia", "Times", "Times New Roman", "serif";
-}
 
-p {
-    font-family: "Helvetica Neue", "Helvetica", "sans-serif";
-  }
-   */
+
 .nav-link:hover {
     color: #55555763;
   }
 
+#navBar {
+  justify: right;
+
+}
 
 .container {
 	/* background-color: white; */
   padding-left:0px;
-  
+
   width: 100%; 
   margin: 25px 10px 10px 25px;
    
@@ -44,8 +39,6 @@ p {
     border: none;
     outline: none;
     padding: 10px 16px;
-    background-color: #4aaaa5;
-	;
     cursor: pointer;
 } 
 
@@ -54,8 +47,8 @@ h1 {
 }
 
 .aboutMe {
-  font-family: 'Georgia', Times, 'Times New Roman', serif;
-  margin-top: 45px;
+  /* font-family: 'Georgia', Times, 'Times New Roman', serif; */
+  margin-top: 45px; 
   margin-left: 10px;
   color: #4aaaa5;    
 }

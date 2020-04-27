@@ -6,7 +6,7 @@
 
 1. [Updated Portfolio](https://avaarm.github.io/Updated-Portfolio-Page-1/)
 2. [GitHub Profile](https://avaarm.github.io/Updated-Portfolio-Page-1/) 
-3. [Updated Resume](file:///Users/armenuhiavanesyan/Downloads/2019%20Research%20(8).pdf) 
+3. [Updated Resume]() 
 4. [Updated LinkedIn](https://www.linkedin.com/in/armenuhi-avanesyan-99101286/) 
 
 
@@ -14,15 +14,10 @@
 ## Requirements
 
 * Updated portfolio featuring project 1 and two exemplary homework assignments. 
-
 * Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments.  
-- Completed 
-
 * Updated resume
-- Completed 
-
 * Updated LinkedIn profile
-- Completed
+
 
 
 ### Updated Portfolio
